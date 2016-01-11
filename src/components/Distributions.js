@@ -35,7 +35,7 @@ export default class Distributions extends Component {
         </Tabs>
         <CardHeader
           avatar={ <div></div> }
-          subtitle={`${currentDistribution.type} Prior Distribution`}
+          subtitle={"True response probability distribution"}
           actAsExpander={true}
           showExpandableButton={true}
         >
