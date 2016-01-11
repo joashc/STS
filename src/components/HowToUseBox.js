@@ -40,7 +40,7 @@ export default class HowToUseBox extends Component {
     There are a number of constraints on the stage values. For a given stage <i>n</i>:
     <ul>
       <li>The threshold must be at least one greater than the threshold of stage <i>n - 1</i></li>
-      <li>The threshold must be at most the number of participants in stage <i>n</i> or the threshold of stage <i>n + 1</i>, whichever is smallest</li>
+      <li>The threshold must be at most the number of participants in stage <i>n</i> or one less than the threshold of stage <i>n + 1</i>, whichever is smallest</li>
       <li>The participant number must be at least the number of participants in stage <i>n - 1</i>, or the threshold of stage <i>n</i>, whichever is greatest</li>
       <li>The participant number must be at most the number of participants in stage <i>n + 1</i></li>
     </ul>
