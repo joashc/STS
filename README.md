@@ -1,6 +1,6 @@
 # STS - Sequential Trial Simulator for Health Hack 2015
 
-http://nm-t.github.io/STS
+http://joashc.github.io/STS
 
 About Sequential Trial Simulator
 --------------------------------
